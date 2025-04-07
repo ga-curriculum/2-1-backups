@@ -1,0 +1,135 @@
+{
+  "org": {
+    "friendlyName": "Modular Curriculum All Courses",
+    "name": "modular-curriculum-all-courses"
+  },
+  "repo": {
+    "friendlyName": "3-2-1 Backup Strategy",
+    "name": "3-2-1-backup-strategy",
+    "type": "Lesson",
+    "about": "",
+    "starterCode": "",
+    "solutionCode": "",
+    "deployedSite": ""
+  },
+  "courses": [
+    {
+      "name": "fallback",
+      "courseAcronym": "",
+      "courseFullName": "",
+      "logoUrl": "",
+      "microlessons": [
+        {
+          "friendlyName": "Data Resilience Fundamentals",
+          "dirName": "data-resilience-fundamentals",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        },
+        {
+          "friendlyName": "Implementation Architectures",
+          "dirName": "implementation-architectures",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        },
+        {
+          "friendlyName": "Evolution and Adaptation",
+          "dirName": "evolution-and-adaptation",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        }
+      ],
+      "isHeaderShown": true,
+      "isHeaderModuleNavShown": true,
+      "isHeaderHomeNavShown": true,
+      "isHeaderMicrolessonNavShown": true,
+      "isHeaderMicrolessonVideoLinkShown": true,
+      "isHeaderNavSettingsShown": true,
+      "isFooterCopyrightShown": true,
+      "isFooterLessonNavShown": true,
+      "isStickyNavSettingShown": true,
+      "isStickyNavAllowed": true,
+      "isFixedNavAllowed": true,
+      "isStickyNavDefault": true,
+      "isStickyNavForcedDefault": false,
+      "isFixedNavForcedDefault": false,
+      "isDarkModeSettingShown": true,
+      "isDarkModeAllowed": true,
+      "isLightModeAllowed": true,
+      "isLightModeDefault": true,
+      "isLightModeForcedDefault": false,
+      "isDarkModeForcedDefault": false,
+      "isActivityTimeShown": true
+    },
+    {
+      "name": "cyb",
+      "courseAcronym": "",
+      "courseFullName": "",
+      "logoUrl": "",
+      "microlessons": [
+        {
+          "friendlyName": "Data Resilience Fundamentals",
+          "dirName": "data-resilience-fundamentals",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        },
+        {
+          "friendlyName": "Implementation Architectures",
+          "dirName": "implementation-architectures",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        },
+        {
+          "friendlyName": "Evolution and Adaptation",
+          "dirName": "evolution-and-adaptation",
+          "type": "Content",
+          "skill": "",
+          "learningObjective": "",
+          "videoUrl": "",
+          "videoLengthInMinutes": 0,
+          "estimatedDeliveryTimeInMinutes": 0
+        }
+      ],
+      "isHeaderShown": true,
+      "isHeaderModuleNavShown": true,
+      "isHeaderHomeNavShown": true,
+      "isHeaderMicrolessonNavShown": true,
+      "isHeaderMicrolessonVideoLinkShown": true,
+      "isHeaderNavSettingsShown": true,
+      "isFooterCopyrightShown": true,
+      "isFooterLessonNavShown": true,
+      "isStickyNavSettingShown": true,
+      "isStickyNavAllowed": true,
+      "isFixedNavAllowed": true,
+      "isStickyNavDefault": true,
+      "isStickyNavForcedDefault": false,
+      "isFixedNavForcedDefault": false,
+      "isDarkModeSettingShown": true,
+      "isDarkModeAllowed": true,
+      "isLightModeAllowed": true,
+      "isLightModeDefault": true,
+      "isLightModeForcedDefault": false,
+      "isDarkModeForcedDefault": false,
+      "isActivityTimeShown": true
+    }
+  ]
+}

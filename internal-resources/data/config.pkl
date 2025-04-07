@@ -12,9 +12,9 @@ import "microlessons.pkl" as mls
 
 repo {
   // This name is shown in the header nav to navigate users home
-  friendlyName = "[tktk Headline]"
+  friendlyName = "3-2-1 Backup Strategy"
   // This must match the repo name as it appears on GitHub exactly
-  name = "tktk-module-name"
+  name = "3-2-1-backup-strategy"
   type = "Lesson"
 }
 
@@ -24,13 +24,18 @@ courses {
     name = "fallback"
     microlessons {
       // Add microlessons here, in the order they should be delivered
-      mls.setup
-      mls.concepts
-      mls.microlesson01
-      // You can make course-specific adjustments using a syntax like this:
-      (mls.microlesson02) {
-        type = "Level Up content"
-      }
+      mls.dataResilienceFundamentals
+      mls.implementationArchitectures
+      mls.evolutionAndAdaptation
+    }
+  }
+    new {
+    name = "cyb"
+    microlessons {
+      // Add microlessons here, in the order they should be delivered
+      mls.dataResilienceFundamentals
+      mls.implementationArchitectures
+      mls.evolutionAndAdaptation
     }
   }
 }
