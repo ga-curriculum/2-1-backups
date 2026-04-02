@@ -28,8 +28,8 @@ By the end of this module, students will be able to design and implement a robus
 
 ### Course landing pages
 
-- [CYB - Cybersecurity Bootcamp](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/3-2-1-backup-strategy/canvas-landing-pages/cyb.html)
-- [Fallback](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/3-2-1-backup-strategy/canvas-landing-pages/fallback.html)
+- [CYB - Cybersecurity Bootcamp](https://ga-curriculum.github.io/3-2-1-backup-strategy/canvas-landing-pages/cyb.html)
+- [Fallback](https://ga-curriculum.github.io/3-2-1-backup-strategy/canvas-landing-pages/fallback.html)
 
 ### Resources
 
@@ -41,4 +41,4 @@ By the end of this module, students will be able to design and implement a robus
 
 ---
 
-**Find a 👾 bug 👾 or have suggestions? [Let us know](https://pages.git.generalassemb.ly/modular-curriculum-all-courses/universal-resources-internal/module-feedback.html)!**
+**Find a 👾 bug 👾 or have suggestions? [Let us know](https://ga-curriculum.github.io/universal-resources-internal/module-feedback.html)!**
